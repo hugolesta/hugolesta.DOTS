@@ -3,7 +3,7 @@
 
 Allow the following directories
 !.gitignore
-!nvim/*
+!nvim/**
 !README.md
 Include subdirectories
 !*/
