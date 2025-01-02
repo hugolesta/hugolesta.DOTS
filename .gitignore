@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+Allow the following directories
+!.gitignore
+!nvim/*
+!README.md
+Include subdirectories
+!*/
