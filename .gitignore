@@ -1,9 +1,11 @@
 # Ignore everything
 *
 
-Allow the following directories
+#Allow the following directories
 !.gitignore
-!nvim/**
+!.config/**
 !README.md
-Include subdirectories
+!.wezterm.lua
+!.zshrc
+#Include subdirectories
 !*/
