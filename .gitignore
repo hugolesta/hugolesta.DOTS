@@ -7,5 +7,6 @@
 !README.md
 !.wezterm.lua
 !.zshrc
+!config.nix
 #Include subdirectories
 !*/
