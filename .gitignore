@@ -8,6 +8,6 @@
 !.wezterm.lua
 !.zshrc
 !config.nix
-!setup.sh
+!setup
 #Include subdirectories
 !*/
